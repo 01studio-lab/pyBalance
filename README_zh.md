@@ -7,7 +7,7 @@
 ## 项目简介
 Micropython是指使用Python做各类嵌入式硬件设备编程。MicroPython发展势头强劲，01Studio一直致力于Python嵌入式编程，特此推出pyDrone开源项目，旨在让MicroPython变得更加流行。使用MicroPython，你可以轻松地实现平衡小车直立、前进、后退、巡线、超声波避障、WiFi蓝牙遥控等功能。
 
-![banner](hardware/direction.png)
+![banner](hardware/direction_zh.png)
 
 例：
 ```python
@@ -36,7 +36,7 @@ b.stop()
 
 pyBalance [点击购买>>](https://item.taobao.com/item.htm?id=1080394969733)
 
-![img](hardware/overview.png)
+![img](hardware/overview_zh.png)
 
 |  产品参数 |  |
 |  :---:  | ---  |
